@@ -4,9 +4,6 @@ title: Task Item List
 tags: [to-do list]
 ---
 
-This post tests the style of a task item list.
-
-Source:git status
 git add .
 git commit -m" "
 git push origin master
@@ -26,16 +23,3 @@ cd /window : window 디랙토리로 이동
 cd . . : 상위 디랙토리로 이동
 cd ~ : 이전 디랙토리로 이동
 
-```markdown
-- [x] Eating
-- [ ] Walking
-  - [ ] Running
-- [ ] Sleeping
-```
-
-Rendered:
-
-- [x] Eating
-- [ ] Walking
-  - [ ] Running
-- [ ] Sleeping
