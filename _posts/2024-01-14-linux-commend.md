@@ -4,6 +4,7 @@ title: 리눅스 명령어 정리
 tags: [markdown, css, html]
 categories: Java
 ---
+# 리눅스 명령어에 대해 알아보자
 
 git add .  
 git commit -m" "  
