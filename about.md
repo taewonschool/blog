@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Another minimal style of Jekyll theme for writers.
+My name is Kim Han-bit, and I am a second-year student attending Taewon High School.
