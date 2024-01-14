@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Task Item List
-tags: [to-do list]
+title: 리눅스 명령어 정리
+tags: [markdown, css, html]
+categories: Java
 ---
 
 git add .  
@@ -22,4 +23,5 @@ ex) cd ~aian : aian의 홈 디랙토리로 이동
 cd /window : window 디랙토리로 이동  
 cd . . : 상위 디랙토리로 이동  
 cd ~ : 이전 디랙토리로 이동  
+
 
